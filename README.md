@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Adityasingh2808
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development and python
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on python program
+- 📫 How to reach me aadik7212@gmail.com
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: ...
 
